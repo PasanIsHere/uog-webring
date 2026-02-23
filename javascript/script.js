@@ -4,7 +4,7 @@ let logConsoleMessage = () => {
   console.log(
     "%c👋 Hey there" +
       "\n\n%cLooks like you're poking around in the console. Why not add your site to the webring?" +
-      "\n\n%c→ https://github.com/faizm19/uog-webring",
+      "\n\n%c→ https://github.com/faizm10/uog-webring",
     "font-size: 18px; font-weight: bold; color: #FF3366;",
     "font-size: 14px; color: #00FF00;",
     "font-size: 14px; color: #3399FF; text-decoration: underline;"
